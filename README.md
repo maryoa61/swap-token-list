@@ -15,7 +15,7 @@ The token list is defined in the `inkyswap-mainnet.tokenlist.json` file. It incl
   "symbol": "WETH",
   "name": "Wrapped ETH",
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c253d7c5d4203783e31bde1d33e143f6a9ce1defac24ab5e06948847696b80a1.png"
 }
 ```
 
