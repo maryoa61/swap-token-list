@@ -222,6 +222,14 @@
          "name":"Kraken",
          "decimals":18,
          "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/60e7c778d3c7236e8f4f4d840a5afbdc85539ff9a0a4cff9bef221eb246a8098.jpg"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+         "symbol": "USD₮0",
+         "name": "USD₮0",
+         "decimals": 6,
+         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4489c579765d8cff22a4469f97bbccd585b0f95a7e4f2c116eda66babc3783a1.jpg"
       }
    ]
 }
