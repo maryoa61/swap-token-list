@@ -230,6 +230,30 @@
          "name": "USD₮0",
          "decimals": 6,
          "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4489c579765d8cff22a4469f97bbccd585b0f95a7e4f2c116eda66babc3783a1.jpg"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x80ef7130C5EdC92488b7B98656C714b6342DCB9e",
+         "symbol": "PEA",
+         "name": "Eggplant",
+         "decimals": 18,
+         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/71a3ae4b1558a8b1b43719584a027f8e43ea011b506588be3b85140b3ea8917e.png"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x2AF94A6Ad45cFAb9F98e960c59BC9B61D116474e",
+         "symbol": "SHELL",
+         "name": "SHELL",
+         "decimals": 18,
+         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e4e82fe4dab577ff8905889e68bf9ae2e4ef3a9ad8ca6ca940ee91137fee304b.jpg"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x78aec6f27f440eef34CD995B17f6A347f08EaAb4",
+         "symbol": "RCN",
+         "name": "RaccoonFi",
+         "decimals": 18,
+         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/95cec6ef153ba8bc9e5f81ac97514d4d840983e3e65531e241c5bff56db0c07a.jpg"
       }
    ]
 }
