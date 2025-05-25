@@ -1,0 +1,8 @@
+{
+  "chainId": 57073,
+  "address": "0x1D54c7de10BAcD3f461fC7f3c9c3973005cFDFdD",
+  "symbol": "XXX",
+  "name": "kAYA",
+  "decimals": 18,
+  "logoURI": "https://i.postimg.cc/br2PG613/IMG-20250405-020654-238.jpg"
+}
